@@ -1,0 +1,11 @@
+model1
+traj3
+TRAJECTORY
+NONLOOPING: 
+Length: 1
+[ 1 1 0 1 0 ]
+LIMIT CYCLE: 
+Length: 2
+[ 1 1 1 1 1 ]
+[ 1 1 0 1 1 ]
+TABLE SOURCE: sim1.txt

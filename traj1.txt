@@ -1,0 +1,3 @@
+sim1
+trajectory1
+[ 1 0 1 -1 0 ]
